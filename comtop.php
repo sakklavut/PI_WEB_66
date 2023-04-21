@@ -8,6 +8,11 @@
      <link href="css/bootstrap.min.css" rel="stylesheet">
      <link href="css/main.css" rel="stylesheet">
      <link href="css/header.css" rel="stylesheet">
+     <link href="css/menu.css" rel="stylesheet">
+     <link href="css/vdo.css" rel="stylesheet">
+     <link href="css/search.css" rel="stylesheet">
+     <link href="css/banner.css" rel="stylesheet">
+     <link href="css/new.css" rel="stylesheet">
      <link rel="icon" href="icon/favicon.svg">
 </head>
 <body>
