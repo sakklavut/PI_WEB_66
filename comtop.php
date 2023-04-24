@@ -16,6 +16,7 @@
      <link href="css/performance.css" rel="stylesheet">
      <link href="css/document.css" rel="stylesheet">
      <link href="css/icon_serve.css" rel="stylesheet">
+     <link href="css/footer.css" rel="stylesheet">
    
 
      <link rel="icon" href="icon/favicon.svg">

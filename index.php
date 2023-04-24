@@ -8,6 +8,7 @@
 <?php include('performance.php')?>
 <?php include('document.php')?>
 <?php include('icon_serve.php')?>
+<?php include('footer.php')?>
 <?php include('combottom.php') ?>
 
 
