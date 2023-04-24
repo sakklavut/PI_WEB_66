@@ -13,6 +13,21 @@
      <link href="css/search.css" rel="stylesheet">
      <link href="css/banner.css" rel="stylesheet">
      <link href="css/new.css" rel="stylesheet">
+     <link href="css/performance.css" rel="stylesheet">
+     <link href="css/document.css" rel="stylesheet">
+     <link href="css/icon_serve.css" rel="stylesheet">
+   
+
      <link rel="icon" href="icon/favicon.svg">
+
+
+     
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+
+    <script src="js/jquery-3.6.4.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+
 </head>
 <body>
