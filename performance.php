@@ -15,7 +15,7 @@
                               <div class="col-xl-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p>
+                                            <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -26,7 +26,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <button type="button" class="btn btn_more">ดูทั้งหมด</button>
+                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -40,7 +40,7 @@
                               <div class="col-xl-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p>
+                                             <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -51,7 +51,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <button type="button" class="btn btn_more">ดูทั้งหมด</button>
+                                              <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -65,7 +65,7 @@
                               <div class="col-xl-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p>
+                                             <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -76,7 +76,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <button type="button" class="btn btn_more">ดูทั้งหมด</button>
+                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -90,7 +90,7 @@
                               <div class="col-xl-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p>
+                                             <a href="#"> <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p> </a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -101,7 +101,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <button type="button" class="btn btn_more">ดูทั้งหมด</button>
+                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>

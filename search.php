@@ -30,7 +30,7 @@
                                                   <input type="text" class="input_seach form-control">
                                              </div>
                                              <div class="col-xl-2 ">
-                                                   <button type="button" class="btn bg_btn_seach">Success</button>
+                                                   <button type="button submit" class="btn bg_btn_seach">Success</button>
                                              </div>
                                         </div>
                                    </div>

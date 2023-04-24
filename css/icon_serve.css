@@ -1,5 +1,6 @@
 :root{
      --box_icon_serve:#EDEBEB;
+     --p_icon_serve:#545454;
 }
 
 
@@ -14,6 +15,10 @@
      .icon_serve{
           padding: 26px;
           padding-top: 35px;
+     }
+     .p_icon_serve{
+          color: var(--p_icon_serve);
+          margin-top: 10px;
      }
  }
  

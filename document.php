@@ -35,7 +35,7 @@
                               </div>
                          </div>
                     </div>
-                    <div class="tab-pane fade active show" id="document" role="tabpanel" aria-labelledby="list-home-list">
+                    <div class="tab-pane fade " id="document" role="tabpanel" aria-labelledby="list-home-list">
                          <div class="row">
                               <div class="col-xl-3">
                                    <img src="banner/document_cover.svg" alt="">
@@ -51,7 +51,7 @@
                               </div>
                          </div>
                     </div>
-                    <div class="tab-pane fade active show" id="infographic" role="tabpanel" aria-labelledby="list-home-list">
+                    <div class="tab-pane fade" id="infographic" role="tabpanel" aria-labelledby="list-home-list">
                          <div class="row">
                               <div class="col-xl-3">
                                    <img src="banner/document_cover.svg" alt="">

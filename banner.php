@@ -6,26 +6,18 @@
                          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
                          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
                          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-                         </div>
+                    </div>
                     <div class="carousel-inner">
-                    <div class="carousel-item active">
-                         <img class="d-block w-100" src="banner/banner.svg" alt="First slide">
+                         <div class="carousel-item active">
+                              <a href="#"><img class="d-block w-100 img_banner" src="banner/banner.svg" alt="First slide"></a>
+                         </div>
+                         <div class="carousel-item">
+                               <a href="#"><img class="d-block w-100 img_banner" src="banner/banner.svg" alt="First slide"></a>
+                         </div>
+                         <div class="carousel-item">
+                              <a href="#"><img class="d-block w-100 img_banner" src="banner/banner.svg" alt="First slide"></a>
+                         </div>
                     </div>
-                    <div class="carousel-item">
-                              <img class="d-block w-100" src="banner/banner.svg" alt="First slide">
-                    </div>
-                    <div class="carousel-item">
-                              <img class="d-block w-100" src="banner/banner.svg" alt="First slide">
-                    </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                         <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                         <span class="visually-hidden">Next</span>
-                    </button>
                </div>
           </div>
           <div class="col-xl-4">
@@ -59,30 +51,24 @@
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-4">
+               <div class="row mb-4 mt-3">
                     <div class="col-xl-12">
                          <div class="box_banner_row">
-                              <p class="text-banner">
-                                   ปฏิทินการศึกษา
-                              </p>
+                             <a href="#"> <p class="text-banner">ปฏิทินการศึกษา</p></a>
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-4">
+               <div class="row mb-4 mt-3">
                     <div class="col-xl-12">
                          <div class="box_banner_row">
-                              <p class="text-banner">
-                                   ทุนการศึกษา
-                              </p>
+                              <a href="#"> <p class="text-banner">ทุนการศึกษา</p></a>
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-4">
+               <div class="row mb-4 mt-3">
                     <div class="col-xl-12">
                          <div class="box_banner_row">
-                              <p class="text-banner">
-                                   ค่าธรรมเนียมการศึกษา
-                              </p>
+                              <a href="#"> <p class="text-banner">ค่าธรรมเนียมการศึกษา</p></a>
                          </div>
                     </div>
                </div>

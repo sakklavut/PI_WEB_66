@@ -4,74 +4,86 @@
                <div class="owl-carousel owl-theme" id="icon_serve">
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/1.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/1.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>คลังข้อมูลสื่อ</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">คลังข้อมูลสื่อ</p> 
+                                   </div>
+                              </a> 
                          </div>
                     </div>
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/2.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/2.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>ITA ของสถาบัน</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">ITA ของสถาบัน</p> 
+                                   </div>
+                              </a>
                          </div>
                     </div>
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/3.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/3.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>สภาสถาบัน</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">สภาสถาบัน</p> 
+                                   </div>
+                              </a>
                          </div>
                     </div>
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/4.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/4.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>สภาวิชาการ</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">สภาวิชาการ</p> 
+                                   </div>
+                              </a>
                          </div>
                     </div>
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/5.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/5.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>สภาคณาจารย์</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">สภาคณาจารย์</p> 
+                                   </div>
+                              </a>
                          </div>
                     </div>
                     <div class="item">
                          <div class="row">
-                              <div class="col-xl-12 text-center">
-                                   <div class="box_icon_serve">
-                                        <img class="icon_serve" src="icon_serve/6.svg" alt="">
+                              <a href="#">
+                                   <div class="col-xl-12 text-center">
+                                        <div class="box_icon_serve">
+                                             <img class="icon_serve" src="icon_serve/6.svg" alt="">
+                                        </div>
                                    </div>
-                              </div>
-                              <div class="col-xl-12 text-center">
-                                   <p>PI Channel</p> 
-                              </div>
+                                   <div class="col-xl-12 text-center">
+                                        <p class="p_icon_serve">PI Channel</p> 
+                                   </div>
+                              </a>
                          </div>
                     </div>
                </div>

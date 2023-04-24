@@ -30,7 +30,7 @@
                                    </div>
                                    <div class="me-2">
                                         <p class="p_footer">
-                                             02-590-1918
+                                             <a href="tel:+02-590-1918">02-590-1918</a>
                                         </p>
                                    </div>
                              </div>
@@ -44,7 +44,7 @@
                                    </div>
                                    <div class="me-2">
                                         <p class="p_footer">
-                                               saraban@pi.ac.th
+                                             <a href="mailto:saraban@pi.ac.th">  saraban@pi.ac.th</a>
                                         </p>
                                    </div>
                              </div>
