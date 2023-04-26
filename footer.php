@@ -1,7 +1,7 @@
 <div class="footer">
      <div class="container">
           <div class="row">
-               <div class="col-xl-3 mt-3">
+               <div class="col-xl-3 col-md-3 mt-3">
                     <div class="row">
                          <div class="col-xl-12">
                               <p class="h_footer">ติดต่อเรา</p>
@@ -30,7 +30,7 @@
                                    </div>
                                    <div class="me-2">
                                         <p class="p_footer">
-                                             <a href="tel:+02-590-1918">02-590-1918</a>
+                                             <a href="tel:+02-590-1918" title="02-590-1918">02-590-1918</a>
                                         </p>
                                    </div>
                              </div>
@@ -44,14 +44,14 @@
                                    </div>
                                    <div class="me-2">
                                         <p class="p_footer">
-                                             <a href="mailto:saraban@pi.ac.th">  saraban@pi.ac.th</a>
+                                             <a href="mailto:saraban@pi.ac.th" title="saraban@pi.ac.th">  saraban@pi.ac.th</a>
                                         </p>
                                    </div>
                              </div>
                          </div>
                     </div>
                </div>
-               <div class="col-xl-6 mt-3">
+               <div class="col-xl-6 col-md-6 mt-3">
                          <div class="row">
                               <div class="col-xl-12">
                                    <p class="h_footer">ระบบสารสนเทศ</p>
@@ -70,7 +70,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#">ระบบบุคลากร สํานักงานปลัดกระทรวงสาธารณสุข</a>
+                                                                      <a href="#" title="ระบบบุคลากร สํานักงานปลัดกระทรวงสาธารณสุข">ระบบบุคลากร สํานักงานปลัดกระทรวงสาธารณสุข</a>
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -82,7 +82,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#"> ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา</a>
+                                                                      <a href="#" title="ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา"> ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา</a>
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -94,7 +94,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                       <a href="#"> ระบบรายงานผู้บริหาร (EIS)</a>  
+                                                                       <a href="#" title="ระบบรายงานผู้บริหาร (EIS)"> ระบบรายงานผู้บริหาร (EIS)</a>  
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -106,7 +106,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#">  ระบบขอเดินทางไปราชการ</a>    
+                                                                      <a href="#" title="ระบบขอเดินทางไปราชการ">  ระบบขอเดินทางไปราชการ</a>    
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -122,7 +122,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#">ระบบบุคลากร/ระบบสารบรรณ/ระบบลา</a>    
+                                                                      <a href="#" title="ระบบบุคลากร/ระบบสารบรรณ/ระบบลา">ระบบบุคลากร/ระบบสารบรรณ/ระบบลา</a>    
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -134,7 +134,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#">ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา</a>   
+                                                                      <a href="#" title="ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา">ระบบชำระเงินเพื่อขึ้นทะเบียนนักศึกษา</a>   
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -146,7 +146,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                      <a href="#">ระบบรายงานผู้บริหาร (EIS)</a>
+                                                                      <a href="#" title="ระบบรายงานผู้บริหาร (EIS)">ระบบรายงานผู้บริหาร (EIS)</a>
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -158,7 +158,7 @@
                                                             </div>
                                                             <div class="me-2">
                                                                   <p class="p_footer">
-                                                                       <a href="#"> ระบบขอเดินทางไปราชการ</a>
+                                                                       <a href="#" title="ระบบขอเดินทางไปราชการ"> ระบบขอเดินทางไปราชการ</a>
                                                                    </p>
                                                             </div>
                                                        </div> 
@@ -169,7 +169,7 @@
                               </div>
                          </div>
                     </div>
-               <div class="col-xl-3 mt-3">  
+               <div class="col-xl-3 col-md-3 mt-3">  
                     <div class="row">
                          <div class="col-xl-12">
                               <p class="h_footer">ลิงก์ที่เกี่ยวข้อง</p>
@@ -186,7 +186,7 @@
                                              </div>
                                              <div class="me-2">
                                                   <p class="p_footer">
-                                                       <a href="#"> แผนที่มหาวิทยาลัย</a>
+                                                       <a href="#" title="แผนที่มหาวิทยาลัย"> แผนที่มหาวิทยาลัย</a>
                                                   </p>
                                              </div>
                                         </div> 
@@ -198,7 +198,7 @@
                                              </div>
                                              <div class="me-2">
                                                   <p class="p_footer">
-                                                       <a href="#"> คำถามที่พบบ่อย</a>
+                                                       <a href="#" title="คำถามที่พบบ่อย"> คำถามที่พบบ่อย</a>
                                                   </p>
                                              </div>
                                         </div> 
@@ -210,7 +210,7 @@
                                              </div>
                                              <div class="me-2">
                                                   <p class="p_footer">
-                                                       <a href="#"> สายตรงอธิการบดี</a>
+                                                       <a href="#" title="สายตรงอธิการบดี"> สายตรงอธิการบดี</a>
                                                   </p>
                                              </div>
                                         </div> 
@@ -222,7 +222,7 @@
                                              </div>
                                              <div class="me-2">
                                                   <p class="p_footer">
-                                                       <a href="#"> ITA ของสถาบัน</a>
+                                                       <a href="#" title="ITA ของสถาบัน"> ITA ของสถาบัน</a>
                                                   </p>
                                              </div>
                                         </div> 
@@ -234,7 +234,7 @@
                                              </div>
                                              <div class="me-2">
                                                   <p class="p_footer">
-                                                       <a href="#"> สมัครอบรมออนไลน์</a>
+                                                       <a href="#" title="สมัครอบรมออนไลน์"> สมัครอบรมออนไลน์</a>
                                                   </p>
                                              </div>
                                         </div> 

@@ -59,11 +59,12 @@
           line-height: 24px;
       }
       .form_seach {
-          border: 1px solid #ffffff;
-          margin-top: 4%;
-          padding-left: 8%;
-          margin-left: 0%;
-      }
+        width: 95%;
+        border: 1px solid #ffffff;
+        margin-top: 4%;
+        padding-left: 6%;
+        margin-left: 2%;
+    }
       .bg_btn_seach {
           position: absolute;
           width: 151px;

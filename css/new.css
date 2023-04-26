@@ -12,12 +12,15 @@
 }
 
 @media (min-width: 320px) {
-     .text_new{
+     .tab_sm{
+          display: none;
+     }
+     .text_new {
           font-weight: 600;
-          font-size: 32px;
+          font-size: 29px;
           line-height: 48px;
           color: var(--text_new);
-    }
+      }
     .text_event{
           font-weight: 600;
           font-size: 32px;
@@ -45,9 +48,12 @@
           margin-top: 22%;
     }
     .tab_new {
-     width: 62px;
-     /* margin-right: 2%; */
-     height: auto;
+     width: 73px;
+     /* margin-right: 9%; */
+     /* height: auto; */
+     font-size: 12px;
+     /* margin-left: 0%; */
+     margin-right: 7%;
  }
      .tab_new .active{
           border-bottom: 5px solid var(--line_new);
@@ -99,8 +105,8 @@
           margin-left: 10%;
      }
      .cover_new {
-          border-radius: 15px 0px 0px 15px;
-          width: 99%;
+          border-radius: 15px 15px 15px 15px;
+          width: 100%;
       }
      .h_event{
           font-weight: 500;
@@ -154,6 +160,7 @@
      width: 150px;
      margin-right: 2%;
      height: auto;  
+     font-size: 18px;
      }
      .tab_new .active{
           border-bottom: 5px solid var(--line_new);

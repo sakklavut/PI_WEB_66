@@ -10,7 +10,7 @@
       <ul class="navbar-nav ms-auto  mb-2 mb-lg-0">
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
+            aria-expanded="false" title="เกี่ยวกับ" >
             เกี่ยวกับ
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -37,20 +37,20 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link " data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-expanded="false" aria-controls="collapseExample" href="#">เกี่ยวกับ</a>
+          <a class="nav-link " data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-expanded="false" aria-controls="collapseExample" href="#" title="เกี่ยวกับ">เกี่ยวกับ</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" data-bs-toggle="collapse"
-     data-bs-target="#navbarToggleExternalContent_2" aria-controls="navbarToggleExternalContent" aria-expanded="false">การศึกษา</a>
+     data-bs-target="#navbarToggleExternalContent_2" aria-controls="navbarToggleExternalContent" aria-expanded="false" title="การศึกษา">การศึกษา</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">นักศึกษา</a>
+          <a class="nav-link" href="#" title="นักศึกษา">นักศึกษา</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">ข่าวสารและกิจกรรม</a>
+          <a class="nav-link" href="#" title="ข่าวสารและกิจกรรม">ข่าวสารและกิจกรรม</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">ติดต่อเรา</a>
+          <a class="nav-link" href="#" title="ติดต่อเรา">ติดต่อเรา</a>
         </li>
       </ul>
     </div>

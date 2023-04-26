@@ -24,7 +24,7 @@
                <div class="row">
                     <div class="col-xl-6 col-md-6"> 
                          <div class="box_banner text-center">
-                              <a href="#">
+                              <a href="#" title="คณะและหลักสูตร">
                                    <div class="row">
                                         <div class="col-xl-12 text-center">
                                              <img class="margin_img_banner" src="icon/mortarboard 1.svg " alt="">
@@ -41,7 +41,7 @@
                     <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
                               <div class="box_banner text-center">
-                                   <a href="#">
+                                   <a href="#" title="กยศ.">
                                         <div class="row">
                                              <div class="col-xl-12 text-center">
                                                   <img class="margin_img_banner"  src="icon/money-bag 1.svg" alt="">
@@ -61,7 +61,7 @@
                     <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
                               <div class="box_banner text-center">
-                                   <a href="#">
+                                   <a href="#" title="สมัครอบรมออนไลน์">
                                         <div class="row">
                                              <div class="col-xl-12 text-center">
                                                   <img class="margin_img_banner" src="icon/online-education 1.svg" alt="">
@@ -78,7 +78,7 @@
                     </div>
                     <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
-                              <a href="#">
+                              <a href="#" title="สมัครเรียน">
                                    <div class="box_banner text-center">
                                         <div class="row">
                                              <div class="col-xl-12 text-center">
@@ -98,21 +98,21 @@
                <div class="row">
                     <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
-                             <a href="#"> <p class="text-banner">ปฏิทินการศึกษา</p></a>
+                             <a href="#" title="ปฏิทินการศึกษา"> <p class="text-banner">ปฏิทินการศึกษา</p></a>
                          </div>
                     </div>
                </div>
                <div class="row">
                     <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
-                              <a href="#"> <p class="text-banner">ทุนการศึกษา</p></a>
+                              <a href="#" title="ทุนการศึกษา"> <p class="text-banner">ทุนการศึกษา</p></a>
                          </div>
                     </div>
                </div>
                <div class="row">
                     <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
-                              <a href="#"> <p class="text-banner">ค่าธรรมเนียมการศึกษา</p></a>
+                              <a href="#" title="ค่าธรรมเนียมการศึกษา"> <p class="text-banner">ค่าธรรมเนียมการศึกษา</p></a>
                          </div>
                     </div>
                </div>

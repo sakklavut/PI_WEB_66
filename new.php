@@ -11,28 +11,28 @@
                                    <div class="line_new"></div>
                               </div>
                               <div>
-                                   <a href="#"><p class="text_new_more">ข่าวทั้งหมด</p></a> 
+                                   <a href="#" title="ข่าวทั้งหมด"><p class="text_new_more">ข่าวทั้งหมด</p></a> 
                               </div>
                          </div>
                     </div>
                </div>  
                <div class="row">
                     <div class="d-flex justify-content-start">
-                         <div class="d-flex justify-content-start" id="list-tab" role="tablist">
+                         <div class="d-flex justify-content-start tab_sm" id="list-tab" role="tablist">
                               <div class="tab_new">
-                                    <a class="link_tab active" id="list-home-list" data-bs-toggle="tab" href="#tag_1">ข่าวประชาสัมพันธ์</a>
+                                    <a class="link_tab active"  id="list-home-list" data-bs-toggle="tab" href="#tag_1" title="ข่าวประชาสัมพันธ์">ข่าวประชาสัมพันธ์</a>
                               </div>
                               <div class="tab_new">
-                                    <a class="link_tab" id="list-profile-list" data-bs-toggle="tab" href="#tag_2">ข่าวการศึกษา</a>
+                                    <a class="link_tab" id="list-profile-list" data-bs-toggle="tab" href="#tag_2" title="ข่าวการศึกษา">ข่าวการศึกษา</a>
                               </div>
                               <div class="tab_new">
-                                    <a class="link_tab" id="list-messages-list" data-bs-toggle="tab" href="#tag_3">ข่าวประกาศ</a>
+                                    <a class="link_tab" id="list-messages-list" data-bs-toggle="tab" href="#tag_3" title="ข่าวประกาศ">ข่าวประกาศ</a>
                               </div>
                               <div class="tab_new">
-                                   <a class="link_tab" id="list-settings-list" data-bs-toggle="tab" href="#tag_4" >ข่าวกิจกรรม</a>
+                                   <a class="link_tab" id="list-settings-list" data-bs-toggle="tab" href="#tag_4"  title="ข่าวกิจกรรม">ข่าวกิจกรรม</a>
                               </div>
                               <div class="tab_new">
-                                   <a class="link_tab" id="list-settings-list" data-bs-toggle="tab" href="#tag_5" >ข่าวจัดซื้อจัดจ้าง</a>
+                                   <a class="link_tab" id="list-settings-list" data-bs-toggle="tab" href="#tag_5" title="ข่าวจัดซื้อจัดจ้าง" >ข่าวจัดซื้อจัดจ้าง</a>
                               </div>
                          </div>
                     </div>
@@ -50,7 +50,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -103,7 +103,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -156,7 +156,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -211,7 +211,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -264,7 +264,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -317,7 +317,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -372,7 +372,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -425,7 +425,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -478,7 +478,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -533,7 +533,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -586,7 +586,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -639,7 +639,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -694,7 +694,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -747,7 +747,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -800,7 +800,7 @@
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
-                                                                 <h1 class="h_new">Lorem ipsum dolor sit amet consectetur...</h1>
+                                                                 <h1 class="h_new" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur...</h1>
                                                                  <p class="p_new">Lorem ipsum dolor amet contsectur adipisicing elit. At provident faceret velit iste aspernatur.</p>
                                                             </div>
                                                        </a>
@@ -858,7 +858,7 @@
                                    <div class="line_new"></div>
                               </div>
                               <div>
-                                    <a href="#"></a><p class="text_event_more">กิจกรรมทั้งหมด</p>
+                                    <a href="#" title="กิจกรรมทั้งหมด"></a><p class="text_event_more">กิจกรรมทั้งหมด</p>
                               </div>
                          </div>
                     </div>
@@ -866,13 +866,13 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="ccol-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-2">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
-                                        <div class="col-xl-12">
-                                           <a href=""> <p class="h_event">15 มี.ค. 2566</p> </a>
+                                        <div class="col-xl-12 col-">
+                                           <a href="" title="15 มี.ค. 2566"> <p class="h_event">15 มี.ค. 2566</p> </a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -887,13 +887,13 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"> <p class="h_event">23 มี.ค. 2566</p> </a>
+                                             <a href="#" title="23 มี.ค.2566"> <p class="h_event" >23 มี.ค. 2566</p> </a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -908,10 +908,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">30 มี.ค. 2566</p></a> 
@@ -929,10 +929,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"> <p class="h_event">19 เม.ย. 2566</p></a>
@@ -950,10 +950,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">20 เม.ย. 2566</p></a> 
@@ -971,10 +971,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                             <a href="#"><p class="h_event">27 เม.ย. 2566</p></a> 
@@ -992,10 +992,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">10 พ.ค. 2566</p></a> 
@@ -1013,10 +1013,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2   col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">17 พ.ค. 2566</p></a>
@@ -1034,10 +1034,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 col-md-2 text-center">
+                              <div class="col-xl-2 col-md-2 col-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10 col-md-10">
+                              <div class="col-xl-10 col-md-10 col-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">8 มิ.ย. 2566</p></a>

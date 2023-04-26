@@ -4,16 +4,16 @@
                <div class="col-xl-12">
                     <ul class="nav nav_right">
                          <li class="nav-item">
-                              <a class="line_header  active" aria-current="page" href="#">บุคคลากร</a>
+                              <a class="line_header  active" aria-current="page" title="บุคคลากร" href="#">บุคคลากร</a>
                          </li>
                          <li class="nav-item">
-                               <a class="line_header" href="#">ส่วนงาน</a>
+                               <a class="line_header" href="#" title="ส่วนงาน" >ส่วนงาน</a>
                          </li>
                          <li class="nav-item">
-                              <a class="line_header" href="#">หอสมุดและคลังความรู้</a>
+                              <a class="line_header" href="#" title="หอสมุดและคลังความรู้" >หอสมุดและคลังความรู้</a>
                          </li>
                          <li class="nav-item">
-                              <a class="line_header" href="#">แนะนำและติชม</a>
+                              <a class="line_header" href="#" title="แนะนำและติชม" >แนะนำและติชม</a>
                           </li>
                          <li class="nav-item">
                               <div class="d-flex me-2">

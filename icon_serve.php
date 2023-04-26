@@ -4,7 +4,7 @@
                <div class="owl-carousel owl-theme" id="icon_serve">
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="คลังข้อมูลสื่อ">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/1.svg" alt="">
@@ -18,7 +18,7 @@
                     </div>
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="ITA ของสถาบัน">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/2.svg" alt="">
@@ -32,7 +32,7 @@
                     </div>
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="สภาสถาบัน">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/3.svg" alt="">
@@ -46,7 +46,7 @@
                     </div>
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="สภาวิชาการ">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/4.svg" alt="">
@@ -60,7 +60,7 @@
                     </div>
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="สภาคณาจารย์">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/5.svg" alt="">
@@ -74,7 +74,7 @@
                     </div>
                     <div class="item">
                          <div class="row">
-                              <a href="#">
+                              <a href="#" title="PI Channel">
                                    <div class="col-xl-12 text-center">
                                         <div class="box_icon_serve">
                                              <img class="icon_serve" src="icon_serve/6.svg" alt="">
@@ -105,10 +105,10 @@
 //     nav:true,
     responsive:{
         0:{
-            items:1
+            items:2
         },
         600:{
-            items:1
+            items:3
         },
         1000:{
             items:6

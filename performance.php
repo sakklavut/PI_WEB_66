@@ -9,13 +9,13 @@
                <div class="owl-carousel owl-theme" id="performance">
                     <div class="item">
                         <div class="row">
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <img class="cover_prefomance" src="banner/performance_cover.svg" alt="">
                               </div>
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                            <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
+                                            <a href="#"><p class="h_h_prefomance" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -26,7 +26,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
+                                             <a href="#"  title="ดูทั้งหมด"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -34,13 +34,13 @@
                     </div>
                     <div class="item">
                         <div class="row">
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <img class="cover_prefomance" src="banner/performance_cover.svg" alt="">
                               </div>
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
+                                             <a href="#" title="ดูทั้งหมด"><p class="h_h_prefomance" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -51,7 +51,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                              <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
+                                              <a href="#"  title="ดูทั้งหมด"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -59,13 +59,13 @@
                     </div>
                     <div class="item">
                         <div class="row">
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <img class="cover_prefomance" src="banner/performance_cover.svg" alt="">
                               </div>
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"><p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p></a>
+                                             <a href="#"><p class="h_h_prefomance" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur.</p></a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -76,7 +76,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
+                                             <a href="#"  title="ดูทั้งหมด"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
@@ -84,13 +84,13 @@
                     </div>
                     <div class="item">
                         <div class="row">
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <img class="cover_prefomance" src="banner/performance_cover.svg" alt="">
                               </div>
-                              <div class="col-xl-6">
+                              <div class="col-xl-6 col-md-6">
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"> <p class="h_h_prefomance">Lorem ipsum dolor sit amet consectetur.</p> </a>
+                                             <a href="#"> <p class="h_h_prefomance" title="Lorem ipsum dolor sit amet consectetur...">Lorem ipsum dolor sit amet consectetur.</p> </a>
                                         </div>
                                    </div>
                                    <div class="row">
@@ -101,7 +101,7 @@
                                    </div>
                                    <div class="row">
                                         <div class="col-xl-12">
-                                             <a href="#"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
+                                             <a href="#" title="ดูทั้งหมด"> <button type="button" class="btn btn_more"> ดูทั้งหมด </button> </a>
                                         </div>
                                    </div>
                               </div>
