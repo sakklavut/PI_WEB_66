@@ -4,6 +4,25 @@
 }
 
 
+
+@media (min-width: 1440px) {
+     .box_icon_serve{
+          width: 133px;
+          height: 133px;
+          background-color: var(--box_icon_serve);
+          border-radius: 100px;
+          margin-left: 33px;
+     }
+     .icon_serve{
+          padding: 26px;
+          padding-top: 35px;
+     }
+     .p_icon_serve{
+          color: var(--p_icon_serve);
+          margin-top: 10px;
+     }  
+}
+
 @media (min-width: 1900px) {
      .box_icon_serve{
           width: 133px;

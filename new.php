@@ -43,10 +43,10 @@
                               <div class="row">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new" src="icon/ASITF7_Page_1 2.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -96,10 +96,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4  col-md-4 p-0">
                                                   <img class="cover_new"  src="icon/new_cover.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8 ">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -111,7 +111,7 @@
                                                   <div class="row">
                                                        <div class="d-flex">
                                                             <div class="me-2">
-                                                                 <img src="icon/user.svg" alt="">
+                                                                 <img  src="icon/user.svg" alt="">
                                                             </div>
                                                             <div>
                                                                  <p class="p_new_institution">สถาบันพระบรมราชชนก</p>
@@ -149,10 +149,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
-                                                  <img  src="icon/new_cover_1.svg" alt="">
+                                             <div class="col-xl-4 col-md-4 p-0">
+                                                  <img  class="cover_new" src="icon/new_cover_1.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -204,10 +204,10 @@
                               <div class="row">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4  p-0">
                                                   <img class="cover_new" src="icon/ASITF7_Page_1 2.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -257,10 +257,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new"  src="icon/new_cover.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -310,10 +310,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
-                                                  <img  src="icon/new_cover_1.svg" alt="">
+                                             <div class="col-xl-4 col-md-4 p-0">
+                                                  <img   class="cover_new" src="icon/new_cover_1.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -365,10 +365,10 @@
                               <div class="row">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new" src="icon/ASITF7_Page_1 2.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -418,10 +418,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new"  src="icon/new_cover.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -471,10 +471,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
-                                                  <img  src="icon/new_cover_1.svg" alt="">
+                                             <div class="col-xl-4 col-md-4 p-0">
+                                                  <img  class="cover_new"  src="icon/new_cover_1.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -526,10 +526,10 @@
                               <div class="row">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new" src="icon/ASITF7_Page_1 2.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -579,10 +579,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new"  src="icon/new_cover.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -632,10 +632,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
-                                                  <img  src="icon/new_cover_1.svg" alt="">
+                                             <div class="col-xl-4 col-md-4 p-0">
+                                                  <img  class="cover_new" src="icon/new_cover_1.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -687,10 +687,10 @@
                               <div class="row">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new" src="icon/ASITF7_Page_1 2.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -740,10 +740,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
+                                             <div class="col-xl-4 col-md-4 p-0">
                                                   <img class="cover_new"  src="icon/new_cover.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -793,10 +793,10 @@
                               <div class="row mt-5">
                                    <div class="col-xl-12 shadow-sm bg-body rounded">
                                         <div class="row">
-                                             <div class="col-xl-4 p-0">
-                                                  <img  src="icon/new_cover_1.svg" alt="">
+                                             <div class="col-xl-4 col-md-4 p-0">
+                                                  <img  class="cover_new"  src="icon/new_cover_1.svg" alt="">
                                              </div>
-                                             <div class="col-xl-8">
+                                             <div class="col-xl-8 col-md-8">
                                                   <div class="row">
                                                        <a href="#">
                                                             <div class="col-xl-12">
@@ -866,10 +866,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-2">
                                    <div class="row">
                                         <div class="col-xl-12">
                                            <a href=""> <p class="h_event">15 มี.ค. 2566</p> </a>
@@ -887,10 +887,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"> <p class="h_event">23 มี.ค. 2566</p> </a>
@@ -908,10 +908,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">30 มี.ค. 2566</p></a> 
@@ -929,10 +929,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"> <p class="h_event">19 เม.ย. 2566</p></a>
@@ -950,10 +950,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">20 เม.ย. 2566</p></a> 
@@ -971,10 +971,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                             <a href="#"><p class="h_event">27 เม.ย. 2566</p></a> 
@@ -992,10 +992,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">10 พ.ค. 2566</p></a> 
@@ -1013,10 +1013,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">17 พ.ค. 2566</p></a>
@@ -1034,10 +1034,10 @@
                <div class="row mb-3">
                     <div class="col-xl-12">
                          <div class="row">
-                              <div class="col-xl-2 text-center">
+                              <div class="col-xl-2 col-md-2 text-center">
                                    <img src="icon/car_1.svg" alt="">
                               </div>
-                              <div class="col-xl-10">
+                              <div class="col-xl-10 col-md-10">
                                    <div class="row">
                                         <div class="col-xl-12">
                                              <a href="#"><p class="h_event">8 มิ.ย. 2566</p></a>

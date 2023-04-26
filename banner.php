@@ -1,6 +1,6 @@
 <div class="container mt-5">
      <div class="row">
-          <div class="col-xl-8">
+          <div class="col-xl-8 col-md-8">
                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-indicators">
                          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -20,53 +20,97 @@
                     </div>
                </div>
           </div>
-          <div class="col-xl-4">
-               <div class="row mb-4">
-                    <div class="col-xl-6"> 
+          <div class="col-xl-4 col-md-4">
+               <div class="row">
+                    <div class="col-xl-6 col-md-6"> 
                          <div class="box_banner text-center">
-                               <a href=""> <img src="icon/course.svg" class="icon_banner" alt=""></a>     
+                              <a href="#">
+                                   <div class="row">
+                                        <div class="col-xl-12 text-center">
+                                             <img class="margin_img_banner" src="icon/mortarboard 1.svg " alt="">
+                                        </div>
+                                   </div>
+                                   <div class="row">
+                                        <div class="col-xl-12 text-center">
+                                        <p class="p_icon_banner">คณะและหลักสูตร</p>
+                                        </div>
+                                   </div>
+                              </a>
                          </div>
                     </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
                               <div class="box_banner text-center">
-                                   <a href=""> <img src="icon/กยศ..svg" class="icon_banner" alt=""></a>     
+                                   <a href="#">
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <img class="margin_img_banner"  src="icon/money-bag 1.svg" alt="">
+                                             </div>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <p class="p_icon_banner">กยศ.</p>
+                                             </div>
+                                        </div>
+                                   </a>   
                               </div>
                          </div>
                     </div>
                </div>
-               <div class="row mb-4">
-                    <div class="col-xl-6">
+               <div class="row">
+                    <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
                               <div class="box_banner text-center">
-                                   <a href=""> <img src="icon/สมัครหลักสูตรออนไลน์.svg" class="icon_banner" alt=""></a>     
+                                   <a href="#">
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <img class="margin_img_banner" src="icon/online-education 1.svg" alt="">
+                                             </div>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <p class="p_icon_banner">สมัครอบรมออนไลน์</p>
+                                             </div>
+                                        </div> 
+                                   </a>  
                               </div>
                          </div>
                     </div>
-                    <div class="col-xl-6">
+                    <div class="col-xl-6 col-md-6">
                          <div class="box_banner">
-                              <div class="box_banner text-center">
-                                   <a href=""> <img src="icon/สมัครเรียน.svg" class="icon_banner" alt=""></a>     
-                              </div>    
+                              <a href="#">
+                                   <div class="box_banner text-center">
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <img class="margin_img_banner" src="icon/admission 1.svg" alt="">
+                                             </div>
+                                        </div>
+                                        <div class="row">
+                                             <div class="col-xl-12 text-center">
+                                                  <p class="p_icon_banner">สมัครเรียน</p>
+                                             </div>
+                                        </div>  
+                                   </div>  
+                              </a>  
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-3">
-                    <div class="col-xl-12">
+               <div class="row">
+                    <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
                              <a href="#"> <p class="text-banner">ปฏิทินการศึกษา</p></a>
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-3">
-                    <div class="col-xl-12">
+               <div class="row">
+                    <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
                               <a href="#"> <p class="text-banner">ทุนการศึกษา</p></a>
                          </div>
                     </div>
                </div>
-               <div class="row mb-4 mt-3">
-                    <div class="col-xl-12">
+               <div class="row">
+                    <div class="col-xl-12 col-md-12">
                          <div class="box_banner_row">
                               <a href="#"> <p class="text-banner">ค่าธรรมเนียมการศึกษา</p></a>
                          </div>

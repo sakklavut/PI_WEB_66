@@ -6,7 +6,7 @@
      </div>
      <form action="">
           <div class="row">
-               <div class="col-xl-3">
+               <div class="col-xl-3 col-md-3 col-12">
                     <div class="keyword">
                          <div class="row">
                               <div class="col-xl-12">
@@ -20,16 +20,16 @@
                          </div>
                     </div>
                     </div>
-               <div class="col-xl-9">
+               <div class="col-xl-9 col-md-9 col-12">
                     <div class="row">
                          <div class="col-xl-12">
                               <div class="row">
                                    <div class="col-xl-12 text_seach">
                                         <div class="row">
-                                             <div class="col-xl-10">
+                                             <div class="col-xl-10 col-md-10 col-10">
                                                   <input type="text" class="input_seach form-control">
                                              </div>
-                                             <div class="col-xl-2 ">
+                                             <div class="col-xl-2 col-md-2 col-2">
                                                    <button type="button submit" class="btn bg_btn_seach">Success</button>
                                              </div>
                                         </div>
