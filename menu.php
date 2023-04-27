@@ -74,7 +74,7 @@
 				</div> <!-- dropdown-mega-menu.// -->
 			</li>
         <li class="nav-item">
-          <a class="nav-link" href="#" title="เกี่ยวกับ">เกี่ยวกับddd</a>
+          <a class="nav-link" href="#" title="เกี่ยวกับ">เกี่ยวกับ</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#" title="การศึกษา">การศึกษา</a>
