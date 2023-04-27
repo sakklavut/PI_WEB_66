@@ -85,12 +85,12 @@
 @media (min-width: 768px) {
     .p_icon_banner {
         font-weight: 500;
-        font-size: 12px;
+        font-size: 10px;
         line-height: 15px;
         color: var(--text-banner);
     }
     .margin_img_banner {
-        margin-top: 4%;
+        margin-top: 10%;
         width: 30%;
     }
     .text-banner {

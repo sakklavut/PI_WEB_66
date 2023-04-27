@@ -1,6 +1,6 @@
 <div class="container">
      <div class="row mt-5">
-          <div class="col-xl-8">
+          <div class="col-xl-8 mb-5">
                <div class="row">
                     <div class="col-xl-12">
                          <div class="d-flex justify-content-center">
