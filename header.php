@@ -15,6 +15,9 @@
                          <li class="nav-item">
                               <a class="line_header" href="#" title="แนะนำและติชม" >แนะนำและติชม</a>
                           </li>
+                          <li class="nav-item">
+                                   <div class="me-1 line1_header"></div>  
+                          </li>
                          <li class="nav-item">
                               <div class="d-flex me-2">
                                    <div class="me-1">
@@ -28,9 +31,11 @@
                                    </div>
                               </div>
                          </li>
-                         
                          <li class="nav-item">
-                              <div class="d-flex me-2">
+                              <div class="me-1 line1_header"></div>  
+                          </li>
+                         <li class="nav-item">
+                              <div class="d-flex me-1">
                                    <div class="me-1">
                                         <button type="button" title="Normal" id="normally_bg"  onclick="normally_bg();" class="btn btn-white p-0 fontcolor01">A</button>
                                    </div>
@@ -44,12 +49,12 @@
                           </li>
                           <li class="nav-item">
                               <a href="">
-                                   <img class="icon_en me-2" src="icon/icon_en.svg" alt="">
+                                   <img class="icon_en me-1" src="icon/icon_en.svg" alt="">
                               </a>  
                           </li>
                          <li class="nav-item">
                               <a href="">
-                                   <img class="icon_search me-2" src="icon/search.svg" alt="">
+                                   <img class="icon_search me-1" src="icon/search.svg" alt="">
                               </a>  
                          </li>
                     </usl>
