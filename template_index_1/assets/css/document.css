@@ -1,0 +1,187 @@
+:root{
+     --link_tab_journal:#3F3F3F;
+}
+
+
+@media (min-width: 320px) {
+     .link_tab_journal {
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+      }
+     .link_tab_journal:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .cover_document{
+          width: 100%;
+          margin-bottom: 10%;
+     }
+}
+
+
+@media (min-width: 768px) {
+     .link_tab_journal{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_journal:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .cover_document{
+          width: 100%;
+     }
+}
+
+@media (min-width: 1024px) {
+     .link_tab_journal{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_journal:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .cover_document{
+          width: 100%;
+     }
+}
+
+@media (min-width: 1440px) {
+     .link_tab_journal{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_journal:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .cover_document{
+          width: 100%;
+     }
+}
+
+
+@media (min-width: 1900px) {
+     .link_tab_journal{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_journal:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_document:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic{
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 45px;
+          color: var(--link_tab_journal);
+     }
+     .link_tab_infographic:hover{ 
+          color: var(--link_tab_journal);
+     }
+     .cover_document{
+          width: 100%;
+     }
+}
